@@ -1,4 +1,4 @@
-##Yolo Project
+# Yolo SNS Project
 
 ## 구현 기능
 1. 회원가입/ 로그인
