@@ -12,4 +12,4 @@
 
 ## 사용기술
 프론트 : html, css, javascript 
-백 : node.js, 
+백 : node.js, mySQL
