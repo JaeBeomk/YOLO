@@ -8,6 +8,8 @@ router.get('/', function(req, res, next) {
 router.get('/join', function(req, res, next) {
   res.render('join', { title: 'Express' });
 });
-
+router.get('/login', function(req, res, next){
+  res.render('login');
+});
 
 module.exports = router;
